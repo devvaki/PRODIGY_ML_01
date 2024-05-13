@@ -1,2 +1,6 @@
 # PRODIGY_ML_01
 Excited to be a Machine Learning Intern @Prodigy InfoTech 
+I just finished my first machine learning task at Prodigy Info Tech. The task was to predict the house price based on square footage, number of bedrooms and bathrooms. I explored the use of Linear regression, which essentially finds a straight line that best fits the data points representing house prices and the features like square footage, number of bedrooms, and bathrooms. This gave me a solid understanding of the basic relationships between the factors, but it also highlighted the limitations of this approach. Real estate prices are complex and likely don't follow a perfectly straight line. To tackle this challenge, I explored using random forests alongside linear regression. Random forests work by building a whole bunch of decision trees, each one making a prediction based on a random subset of the data. The final prediction is then the average of all these individual tree predictions. This approach is more flexible and can capture more complex relationships in the data, potentially leading to more accurate house price estimates. 
+
+
+This first task has ignited my passion for machine learning, and I'm excited to keep learning and delve deeper into more advancedtechniques.
